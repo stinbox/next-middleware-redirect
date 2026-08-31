@@ -1,0 +1,17 @@
+{
+  "name": "next-middleware-redirect",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "packageManager": "pnpm@10.26.0",
+  "dependencies": {
+    "@types/node": "^26.4.0",
+    "@types/react": "^19.2.18",
+    "next": "^16.3.3",
+    "typescript": "^7.0.2"
+  }
+}
